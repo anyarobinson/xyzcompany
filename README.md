@@ -15,4 +15,4 @@ Project is created with:
 * SVG
 	
 ## Launch
-To view this project, please click the following link: https://anyarobinson.github.io/Apergy/
+To view this project, please click the following link: 
